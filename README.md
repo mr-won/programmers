@@ -1,10 +1,3 @@
 ## 코딩테스트 준비 with Programmers
-[JAVA Coding Test](https://www.inflearn.com/course/%EB%91%90%EC%9E%87-%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98-%EC%BD%94%EB%94%A9%ED%85%8C%EC%8A%A4%ED%8A%B8-%EC%9E%90%EB%B0%94)
-JAVA -> Python 2, 3 
-[Python](https://school.programmers.co.kr/learn/challenges?order=acceptance_desc&page=1&languages=python%2Cpython3&levels=1)
-
-#### LG전자
-```
-JAVA 1단계 20분 2단계 3단계 60분
-```
+![image](https://github.com/chihyeonwon/programmers/assets/58906858/d58901f4-e1ad-48b3-80b2-132f5de9fdac)
 
