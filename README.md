@@ -159,3 +159,7 @@ data class Cheese(val x:Int, val y:Int, val time:Int)
 ```
 위의 형태로 클래스를 생성하면 getter, setter, equals(), hashCode(), toString()를 자동으로 생성해 준다.    
 
+## 자바 유틸 함수
+```kotlin
+import java.util.*
+```
